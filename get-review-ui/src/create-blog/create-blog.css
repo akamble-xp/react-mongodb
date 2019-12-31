@@ -1,0 +1,61 @@
+.create-blog {
+    display: flex;
+}
+.create-blog-instructions {
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    flex: 1;
+    height: 32rem;
+    padding: 0 20px 20px 20px;
+    margin: 20px;
+    overflow-y: auto;
+}
+.create-blog-card {
+    float: right;
+    flex: 1;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    height: 32rem;
+    padding: 20px 20px 0 20px;
+    margin: 20px; 
+}
+.form-body {
+    padding-bottom: 30px;
+}
+.lbl-blog {
+    font-weight: bold;
+}
+.txt-blog {
+    width: 98%;
+    margin: 5px 0 10px 0;
+    padding: 5px 0 5px 10px;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+.txa-blog {
+    width: 98%;
+    margin: 5px 0 10px 0;
+    padding: 5px 0 5px 10px;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+.btn-blog-attachment {
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    color: white;
+}
+.action-bottons {
+    float: right;
+    padding-bottom: 20px;
+}
+.btn-blog-cancel {
+    background-color: orangered;
+    color: white;
+}
+.btn-blog-create {
+    background-color: green;
+    color: white;
+}

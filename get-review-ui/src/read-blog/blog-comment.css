@@ -1,0 +1,57 @@
+.blog-comment {
+    margin-bottom: 10px;
+}
+.blog-comment-written-by {
+    font-weight: bold;
+    color: blue;
+}
+.blog-comment-posted-on {
+    font-size: 11px;
+}
+.lbl-blog-comment-reference {
+    padding-top: 10px;
+    font-weight: bold;
+}
+.blog-comment-action-replay {
+    font-size: 12px;
+    color: cornflowerblue;
+    cursor: pointer;
+    padding-left: 20px;
+}
+.replay-on-comment {
+    margin: 20px;
+    border: 1px solid black;
+    transition: 0.3s;
+    border-radius: 3px;
+}
+.txt-replay-on-comment-your-name {
+    margin: 10px 10px 10px 10px;
+    padding: 5px 0 5px 10px;
+    width: 40%;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+.txa-replay-on-comment-content {
+    margin: 0 0 0 10px;
+    padding: 5px 0 5px 10px;
+    width: 96%;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+.replay-on-comment-actions {
+    text-align: right;
+    margin: 0 0 10px 0;
+    width: 96%;
+}
+.btn-replay-on-comment-action-save {
+    margin-left: 15px;
+    background-color: blue;
+    color: white;
+}
+.btn-replay-on-comment-action-cancel {
+    background-color: orangered;
+    color: white;
+}
+.comments-on-comment {
+    padding-left: 50px;
+}
